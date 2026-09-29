@@ -136,12 +136,24 @@ A
 ```
 
 ## How to Run the Program
+## How to Run the Program
 
-1. Open the project in VS Code.
-2. Open `student_grade_analyzer.py`.
-3. Run the Python file.
-4. Select an option from the menu.
-5. Enter the required details.
+### Requirements
+
+* Python 3.x
+* No external libraries are required.
+
+### Steps
+
+1. Clone the repository:
+git clone https://github.com/drishti-ray/student-grade-analyzer.git
+2. Open the project folder:
+cd student-grade-analyzer
+3. Run the program:
+python studentproject.py
+4. Follow the instructions shown in the terminal and enter the required student details.
+The program runs completely through the command line and does not require a GUI or any additional software.
+
 
 ## Limitations
 
